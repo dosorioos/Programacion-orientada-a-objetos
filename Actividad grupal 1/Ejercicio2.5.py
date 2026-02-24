@@ -1,4 +1,5 @@
 #Ejercicio 2.5
+#Daniel Osorio - Isabella Caro - Laura Gomez
 
 from enum import Enum
 class Tipo_de_cuenta:

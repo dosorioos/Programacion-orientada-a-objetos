@@ -1,4 +1,5 @@
-#Ejercicio 2.1
+#Ejercicio 2.1 
+#Daniel Osorio - Isabella Caro - Laura Gomez
 
 class Persona: 
     def __init__(self, nombre, apellido, id, año_de_nacimiento):

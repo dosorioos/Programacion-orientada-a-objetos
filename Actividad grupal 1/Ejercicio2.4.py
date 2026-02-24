@@ -1,4 +1,5 @@
 #Ejercicio 2.4
+#Daniel Osorio - Isabella Caro - Laura Gomez
 
 import numpy as np
 
