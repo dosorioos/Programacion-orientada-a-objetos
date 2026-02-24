@@ -1,4 +1,4 @@
-#Ejercicio 2.3
+#Ejercicio 2.2
 
 from enum import Enum
 
