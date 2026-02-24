@@ -1,5 +1,8 @@
 #Ejercicio 2.2
+<<<<<<< HEAD
 #Daniel Osorio - Isabella Caro - Laura Gomez
+=======
+>>>>>>> ff925fd78fc8f98fadca7df74ed4ed4f03e7b302
 
 from enum import Enum
 
