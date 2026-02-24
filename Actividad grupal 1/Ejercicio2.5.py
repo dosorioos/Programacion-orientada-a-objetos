@@ -1,4 +1,4 @@
-#Ejercicio 2.5
+#Ejercicio 2.5 POO
 #Daniel Osorio - Isabella Caro - Laura Gomez
 
 from enum import Enum
