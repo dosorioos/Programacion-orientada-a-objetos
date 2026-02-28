@@ -191,7 +191,7 @@ Auto_nuevo.desacelerar(50)
 Auto_nuevo.acelerar(120)
 Auto_nuevo.multas()
 Auto_nuevo.valor_multas()
-print(Auto_nuevo.contador_multas)
+
 
 
 
